@@ -8,7 +8,7 @@ author: Raffaella
 ![Foto di Leonhard Niederwimmer Unsplash]({static}/images/castle.jpg)
 
 
-Our session organizer Tobe send us some prompt and I would like to sendd my thoughts.
+Our session organizer Tobe send us some prompt and I would like to share my thoughts.
 
 
 **What do you think is open source?**
