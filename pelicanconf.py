@@ -20,12 +20,14 @@ LINKS = (
     ("Pelican", "https://getpelican.com/"),
     ("Python.org", "https://www.python.org/"),
     ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+
 )
 
 # Social widget
 SOCIAL = (
-    ("Follow me on Mastodon", "https://fosstodon.org/@raffaella"),
+    ("Mastodon", "https://fosstodon.org/@raffaella"),
+    ("Github", "https://github.com/raffaellasuardini"),
+    ("Linkedin", "https://www.linkedin.com/in/raffaella-s/"),
 
 )
 
