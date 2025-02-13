@@ -1,5 +1,6 @@
 Title: Collaborative article
-date: 2024-11-11
+Date: 2024-11-11
+Modified: 2024-11-29
 tags: open source
 category: thoughts
 slug: collaborative-article
