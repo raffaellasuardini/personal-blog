@@ -1,6 +1,6 @@
 AUTHOR = 'Raffaella'
 SITENAME = "Raffa's blog"
-SITEURL = "https://raffaellasuardini.github.io/personal-blog/"
+SITEURL = "https://raffaellasuardini.github.io/personal-blog"
 
 PATH = "content"
 
